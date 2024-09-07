@@ -4,7 +4,13 @@ body {
     padding: 0;
     min-width: 1000px; 
 }
-
+.hero{
+width: 100%;
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+  display: block;
+}
 header {
     background-color: #131921;
     color: white;
